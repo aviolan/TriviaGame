@@ -17,6 +17,13 @@ header {
   text-align: center;
 }
 
+#container {
+  width: 960px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #questions {
   background: white;
   color: black;
@@ -27,4 +34,16 @@ header {
   background: white;
   color: black;
   text-align: center;
+}
+
+#start-button {
+  background: black;
+  color: white;
+  border: white 5px solid;
+}
+
+#submit-button {
+  background: black;
+  color: white;
+  border: black;
 }
